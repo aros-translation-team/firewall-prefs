@@ -1,0 +1,9 @@
+# Copyright (C) 2026, The AROS Development Team. All rights reserved.
+
+include $(SRCDIR)/config/aros.cfg
+
+CATALOGS :=
+
+%build_catalogs mmake=workbench-prefs-firewall-catalogs \
+    catalogs=$(CATALOGS) \
+    name=Firewall subdir=System/Prefs

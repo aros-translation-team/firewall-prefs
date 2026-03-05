@@ -1,0 +1,129 @@
+;
+; Firewall Preferences catalog descriptor
+;
+MSG_NAME (//)
+Firewall
+;
+MSG_DESCRIPTION (//)
+Configure AROS firewall rules
+;
+MSG_TAB_FILTER (//)
+Filter Rules
+;
+MSG_TAB_NAT (//)
+NAT Rules
+;
+MSG_ACTION (//)
+Action
+;
+MSG_DIRECTION (//)
+Direction
+;
+MSG_PROTOCOL (//)
+Protocol
+;
+MSG_SOURCE (//)
+Source
+;
+MSG_DESTINATION (//)
+Destination
+;
+MSG_PORT (//)
+Port
+;
+MSG_INTERFACE (//)
+Interface
+;
+MSG_QUICK (//)
+Quick
+;
+MSG_KEEPSTATE (//)
+Keep State
+;
+MSG_LOG (//)
+Log
+;
+MSG_ADD (//)
+Add
+;
+MSG_REMOVE (//)
+Remove
+;
+MSG_MOVEUP (//)
+Move Up
+;
+MSG_MOVEDOWN (//)
+Move Down
+;
+MSG_UPDATE (//)
+Update
+;
+MSG_PASS (//)
+Pass
+;
+MSG_BLOCK (//)
+Block
+;
+MSG_COUNT (//)
+Count
+;
+MSG_IN (//)
+In
+;
+MSG_OUT (//)
+Out
+;
+MSG_ANY (//)
+Any
+;
+MSG_TCP (//)
+TCP
+;
+MSG_UDP (//)
+UDP
+;
+MSG_ICMP (//)
+ICMP
+;
+MSG_TCPUDP (//)
+TCP/UDP
+;
+MSG_NAT_TYPE (//)
+Type
+;
+MSG_NAT_MAP (//)
+Map (SNAT)
+;
+MSG_NAT_RDR (//)
+Redirect (DNAT)
+;
+MSG_NAT_BIMAP (//)
+Bidirectional
+;
+MSG_NAT_SRC (//)
+Source Address/Mask
+;
+MSG_NAT_DST (//)
+Target Address
+;
+MSG_NAT_PORT (//)
+Port/Range
+;
+MSG_NAT_PROTO (//)
+Protocol
+;
+MSG_SAVE (//)
+Save
+;
+MSG_USE (//)
+Use
+;
+MSG_CANCEL (//)
+Cancel
+;
+MSG_ERROR_SAVE (//)
+Error saving configuration
+;
+MSG_ERROR_APPLY (//)
+Error applying firewall rules
+;
