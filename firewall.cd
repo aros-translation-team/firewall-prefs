@@ -127,3 +127,18 @@ Error saving configuration
 MSG_ERROR_APPLY (//)
 Error applying firewall rules
 ;
+MSG_SRC_PORT (//)
+Src Port
+;
+MSG_DST_PORT (//)
+Dst Port
+;
+MSG_TGT_PORT (//)
+Tgt Port
+;
+MSG_FLAGS (//)
+Flags
+;
+MSG_TARGET (//)
+Target
+;
