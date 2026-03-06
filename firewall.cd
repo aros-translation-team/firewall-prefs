@@ -142,3 +142,9 @@ Flags
 MSG_TARGET (//)
 Target
 ;
+MSG_EDIT_FILTER (//)
+Edit Filter Rule
+;
+MSG_EDIT_NAT (//)
+Edit NAT Rule
+;
